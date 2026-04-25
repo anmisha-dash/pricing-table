@@ -3,7 +3,7 @@
 A responsive 3-column pricing table with a highlighted popular plan, built with pure HTML and CSS.
 
 ## Preview
-![Pricing Table](screenshot.png)
+![Pricing Table](pricetable.png)
 
 ## Features
 - 3-tier pricing layout using CSS Grid
